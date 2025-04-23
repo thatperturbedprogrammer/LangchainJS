@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "formidable": "^3.5.4",
+    "langchain": "^0.3.23",
+    "pdf-parse": "^1.1.1"
+  }
+}
